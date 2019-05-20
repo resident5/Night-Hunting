@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Planty
+  m_EditorClassIdentifier: Assembly-CSharp::Npc
+  myName: Planty
+  description: I am a plant
+  art: {fileID: 21300000, guid: f42291f0440721545bac4c63605d6581, type: 3}
+  dialogBoxArt: {fileID: 21300000, guid: 5d81648ae99e59c49b3829c11af908d0, type: 3}
+  textPlace: Hello, there and welcome to the date. I am your host Planty
+  IsActive: 0
+  requiredItem: {fileID: 0}
